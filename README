@@ -1,1 +1,14 @@
-Hello, World!
+
+README for:	Smiley
+Last modified:  April 2, 2012.
+Author: 	Stephen Finney
+Contact:	ssf92@juno.com
+
+Disclaimer: This program, and all of its components, are the individual work of Stephen Finney. Any use of this program or its code for any reason other than execution or any reproduction or modification of this code is prohibited and must be approved by the author.
+
+This program will let the user move two smiley face characters across the screenin a maze of asterisks as walls. Each smiley has its own controls.
+For blue, arrow keys are used. For red, the numbers 2,4,6,8 for down, left, right, and up respectively. The smileys cannot go through walls or each other, but 
+can go through the gates at the top, bottom, and sides. The pellets act as points, and each is worth one. When the game is over (when the user quits or the majority of pellets are picked up), the screen is cleared except for the scores, a win message is printed for the winning player, the cursor is restored below the message, and the program is terminated.
+
+'Q' or 'q' can be used to quit the program before the game ends.
+
