@@ -12,3 +12,7 @@ can go through the gates at the top, bottom, and sides. The pellets act as point
 
 'Q' or 'q' can be used to quit the program before the game ends.
 
+This package includes the .asm source code, as well as the latest .exe file. The .inc Macro file for the source code is also included.
+
+For convenience, the Windows assembler used to create the program is also included.
+
