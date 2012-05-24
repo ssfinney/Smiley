@@ -4,7 +4,7 @@ Last modified:  April 2, 2012.
 Author: 	Stephen Finney
 Contact:	ssf92@juno.com
 
-Disclaimer: This program, and all of its components, are the individual work of Stephen Finney. Any use of this program or its code for any reason other than execution or any reproduction or modification of this code is prohibited and must be approved by the author.
+Disclaimer: This program, and all of its components, are the individual work of Stephen Finney. Any modification of this program or its code must be approved by the author.
 
 This program will let the user move two smiley face characters across the screenin a maze of asterisks as walls. Each smiley has its own controls.
 For blue, arrow keys are used. For red, the numbers 2,4,6,8 for down, left, right, and up respectively. The smileys cannot go through walls or each other, but 
@@ -13,6 +13,4 @@ can go through the gates at the top, bottom, and sides. The pellets act as point
 'Q' or 'q' can be used to quit the program before the game ends.
 
 This package includes the .asm source code, as well as the latest .exe file. The .inc Macro file for the source code is also included.
-
-For convenience, the Windows assembler used to create the program is also included.
 
