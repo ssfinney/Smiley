@@ -5,7 +5,7 @@ Author: 	Stephen Finney
 
 Disclaimer: This program, and all of its components, are the individual work of Stephen Finney. Any modification of this program or its code must be approved by the author.
 
-This program will let the user move two smiley face characters across the screenin a maze of asterisks as walls. Each smiley has its own controls.
+This program will let the user move two smiley face characters across the screen in a maze of asterisks as walls. Each smiley has its own controls.
 For blue, arrow keys are used. For red, the numbers 2,4,6,8 for down, left, right, and up respectively. The smileys cannot go through walls or each other, but 
 can go through the gates at the top, bottom, and sides. The pellets act as points, and each is worth one. When the game is over (when the user quits or the majority of pellets are picked up), the screen is cleared except for the scores, a win message is printed for the winning player, the cursor is restored below the message, and the program is terminated.
 
